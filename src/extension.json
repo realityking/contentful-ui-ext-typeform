@@ -1,0 +1,17 @@
+{
+  "name": "Typeform listing",
+  "id": "cf-typeform",
+  "fieldTypes": ["Symbol"],
+  "src": "https://unruffled-payne-a27a79.netlify.com",
+  "parameters": {
+    "installation": [
+      {
+        "id": "accessToken",
+        "name": "Typeform Access Token",
+        "description": "Client ID to access Google analytics",
+        "type": "Symbol",
+        "required": true
+      }
+    ]
+  }
+}
